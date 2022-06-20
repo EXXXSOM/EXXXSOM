@@ -10,10 +10,6 @@
    <a href="">
     <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" alt="Unity" height="30" width="30">
   </a>
-
-  <a href="">
-    <img src="https://cdn-icons.flaticon.com/png/512/720/premium/720284.png?token=exp=1640360864~hmac=674882136b57a541873df7213f9ba36c" alt="Google Play Service" height="30" width="30">
-  </a>
   
    <a href="">
     <img src="https://img.icons8.com/color/480/firebase.png" alt="Firebase" height="30" width="30">
